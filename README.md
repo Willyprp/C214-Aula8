@@ -2,3 +2,5 @@
 
 # C214-Aula8
 Repositório para a aula 8 da matéria de C214 Laboratório
+
+Foi utilizado o mesmo código do Trabalho 1, para essa aula.
